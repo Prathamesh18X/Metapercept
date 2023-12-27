@@ -1,0 +1,28 @@
+.Navbar {
+  display: flex;
+  flex-direction: row;
+}
+
+.brand{
+  
+}
+.right{
+  text-align: end;
+  display: flex;
+  flex-direction: row;
+}
+
+.flex{
+  flex-direction: row;
+}
+.header{
+  text-align: center;
+  background-color: aqua;
+
+
+}
+
+.container{
+  text-align: center;
+  display: grid;
+}
